@@ -1,0 +1,15 @@
+git clone https://manishkhanal@bitbucket.org/manishkhanal/softwaricac.git
+cd softwaricac
+echo "# My project's README" >> README.md
+git add README.md
+git commit -m "Initial commit"
+git push -u origin master
+
+
+git remote add origin https://manishkhanal@bitbucket.org/manishkhanal/softwaricac.git
+git push -u origin master
+
+
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+https://git-scm.com/download/win
